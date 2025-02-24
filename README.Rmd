@@ -1,0 +1,8 @@
+---
+title: "DragonflyDistribution"
+output: html_document
+date: "2025-02-24"
+---
+
+
+install.packages(c("tidyverse", "sf", "lwgeom", "terra", "stars", "exactextractr"))
